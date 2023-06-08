@@ -20,7 +20,7 @@ dns:
     - https://1.1.1.1/dns-query
     - tls://dns.adguard.com:853
 proxies:
-  - {name: 🇭🇰 HK-1000Gbps-ywf, server: xui.sublam.lol, port: 57457, client-fingerprint: chrome, type: vmess, uuid: 3daf6558-3d42-4a9a-ad06-be33eacd8890, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /subxxlam, headers: {Host: xui.sublam.lol}}}
+  - {name: 🇭🇰 HK-1000Gbps-ywf, server: xui.sublam.lol, port: 57457, client-fingerprint: chrome, type: vmess, uuid: 3daf6558-3d42-4a9a-ad06-be33eacd8890, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /subxxlam, headers: {Host: xui.sublam.lol}}}
   - {name: 🇺🇸 洛杉矶, server: 45.92.124.198, port: 54043, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: gymjt5iBqi, tfo: false}
   - {name: vr-JPvps-cs, server: 20.222.249.224, port: 35782, client-fingerprint: chrome, type: vmess, uuid: 59c2363b-7ec3-42cf-cb2a-072b7b618d15, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
 proxy-groups:
