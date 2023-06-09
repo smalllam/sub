@@ -11,7 +11,7 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🇭🇰 HK-1000Gbps-ywf = vmess, xui.sublam.lol, 57457, username=3daf6558-3d42-4a9a-ad06-be33eacd8890, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/subxxlam, sni=xui.sublam.lol, ws-headers=Host:xui.sublam.lol, skip-cert-verify=false, tfo=false, udp-relay=false
+🇭🇰 HK-1000Gbps-ywf = vmess, xui.sublam.lol, 57457, username=3daf6558-3d42-4a9a-ad06-be33eacd8890, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/subxxlam, sni=xui.sublam.lol, ws-headers=Host:xui.sublam.lol, skip-cert-verify=true, tfo=false, udp-relay=false
 🇺🇸 洛杉矶 = ss, 45.92.124.198, 54043, encrypt-method=aes-256-gcm, password=gymjt5iBqi, tfo=false, udp-relay=false
 vr-JPvps-cs = vmess, 20.222.249.224, 35782, username=59c2363b-7ec3-42cf-cb2a-072b7b618d15, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=false
 🇨🇳 台湾节点 = direct
